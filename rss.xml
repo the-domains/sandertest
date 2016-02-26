@@ -4,7 +4,7 @@
         <description><![CDATA[Home]]></description>
         <link>https://thegrid.ai/sandertest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 14:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 14:38:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sandertest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Profronde Surhuisterveen]]></title>
@@ -32,7 +32,7 @@
             <description><![CDATA[<article><h1>Over ons</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit, mauris non placerat auctor, dolor quam lacinia diam, at interdum metus felis eget purus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f411af9df9cd07e7d4c78c8364ac8e09886304cc.jpg"></article>]]></description>
             <link>https://thegrid.ai/sandertest/hello-world/index.html</link>
             <guid isPermaLink="false">d8602ccd-8669-4ede-9ebe-aece9f4032c3</guid>
-            <pubDate>Fri, 26 Feb 2016 14:37:14 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 14:37:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
