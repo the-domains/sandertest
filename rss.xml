@@ -4,7 +4,7 @@
         <description><![CDATA[Hello World]]></description>
         <link>https://thegrid.ai/sandertest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 13:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 14:20:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sandertest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Profronde Surhuisterveen]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/sandertest/dit-is-de-titel-van-de-tweede-post/index.html</link>
             <guid isPermaLink="false">2d745e53-f1ff-4cbf-aa5c-a0bf0ff5fc74</guid>
             <pubDate>Fri, 26 Feb 2016 13:16:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edae2dde-3394-42c1-b2bc-515b59b65d34.jpg">]]></description>
+            <link>https://thegrid.ai/sandertest/a6d27d9c-49e6-48f2-8528-90c4e7799e74/index.html</link>
+            <guid isPermaLink="false">a6d27d9c-49e6-48f2-8528-90c4e7799e74</guid>
+            <pubDate>Fri, 26 Feb 2016 14:20:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HALLO, dit is een titel]]></title>
