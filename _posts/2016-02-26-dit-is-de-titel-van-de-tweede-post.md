@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-26T13:12:41.728Z'
-dateModified: '2016-02-26T13:12:39.063Z'
-title: "Dit is de titel van de tweede\_post"
+datePublished: '2016-02-26T13:14:03.158Z'
+dateModified: '2016-02-26T13:13:11.134Z'
+title: Profronde Surhuisterveen
 author: []
 sourcePath: _posts/2016-02-26-dit-is-de-titel-van-de-tweede-post.md
 published: true
@@ -22,7 +22,7 @@ url: dit-is-de-titel-van-de-tweede-post/index.html
 _type: Article
 
 ---
-# Dit is de titel van de tweede post
+# Profronde Surhuisterveen
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f92bd5d-f081-4ba1-ac4a-89494ab8b1de.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit, mauris non placerat auctor, **dolor** quam lacinia diam, at _interdum_ metus felis eget purus. Suspendisse tristique ipsum tempus urna fringilla, vitae vestibulum nisi auctor. 
