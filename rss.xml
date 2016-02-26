@@ -4,7 +4,7 @@
         <description><![CDATA[Hello World]]></description>
         <link>https://thegrid.ai/sandertest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 12:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 12:42:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sandertest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[HALLO, dit is een titel]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>Dit is de titel van de tweede post</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9662dc748ab6bcef003e54c8b44e98dab1d3cfe.jpg"></article>]]></description>
             <link>https://thegrid.ai/sandertest/dit-is-de-titel-van-de-tweede-post/index.html</link>
             <guid isPermaLink="false">2d745e53-f1ff-4cbf-aa5c-a0bf0ff5fc74</guid>
-            <pubDate>Fri, 26 Feb 2016 12:39:49 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 12:41:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
