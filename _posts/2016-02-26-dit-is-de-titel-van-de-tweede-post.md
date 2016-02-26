@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T12:39:49.577Z'
-dateModified: '2016-02-26T12:39:21.290Z'
+datePublished: '2016-02-26T12:41:48.403Z'
+dateModified: '2016-02-26T12:39:55.954Z'
 title: "Dit is de titel van de tweede\_post"
 author: []
+sourcePath: _posts/2016-02-26-dit-is-de-titel-van-de-tweede-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-dit-is-de-titel-van-de-tweede-post.md
-published: true
 url: dit-is-de-titel-van-de-tweede-post/index.html
 _type: Article
 
