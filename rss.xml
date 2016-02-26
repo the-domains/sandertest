@@ -4,7 +4,7 @@
         <description><![CDATA[Hello World]]></description>
         <link>https://thegrid.ai/sandertest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 14:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 14:23:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sandertest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Profronde Surhuisterveen]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Fri, 26 Feb 2016 13:16:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edae2dde-3394-42c1-b2bc-515b59b65d34.jpg">]]></description>
+            <title><![CDATA[Titel]]></title>
+            <description><![CDATA[<article><h1>Titel</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit, mauris non placerat auctor, dolor quam lacinia diam, at interdum metus felis eget purus. Suspendisse tristique ipsum tempus urna fringilla, vitae vestibulum nisi auctor. Duis laoreet interdum augue, quis blandit quam mattis quis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5292084af5f5e35090a2b248488b0c7d415d9d39.jpg"></article>]]></description>
             <link>https://thegrid.ai/sandertest/a6d27d9c-49e6-48f2-8528-90c4e7799e74/index.html</link>
             <guid isPermaLink="false">a6d27d9c-49e6-48f2-8528-90c4e7799e74</guid>
-            <pubDate>Fri, 26 Feb 2016 14:21:33 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 14:23:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HALLO, dit is een titel]]></title>
