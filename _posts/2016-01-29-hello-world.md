@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-26T12:32:45.053Z'
-dateModified: '2016-02-26T12:32:42.497Z'
+datePublished: '2016-02-26T12:35:48.671Z'
+dateModified: '2016-02-26T12:34:20.066Z'
 title: Hello world
 author: []
 sourcePath: _posts/2016-01-29-hello-world.md
