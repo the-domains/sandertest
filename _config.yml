@@ -1,0 +1,28 @@
+name: Sandertest
+favicon: null
+layout_spectrum: 0.8694564569741488
+typography_spectrum: 0.5909119311254472
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9749303415883332
+  lightness: 0.05717431497760117
+  saturation: 0.7459915515501052
+  rhythmicContrast: 0.43525858852081
+purpose: []
