@@ -22,8 +22,8 @@ color:
     - '#fadfee'
     - '#f29fcd'
     - '#ea5fab'
-  brandStrength: 0.9749303415883332
+  brandStrength: 0.375
   lightness: 0.5
   saturation: 0.375
-  rhythmicContrast: 0.43525858852081
+  rhythmicContrast: 0.25
 purpose: []
