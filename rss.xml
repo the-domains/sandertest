@@ -4,14 +4,14 @@
         <description><![CDATA[Hello World]]></description>
         <link>https://thegrid.ai/sandertest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 12:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 12:43:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sandertest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[HALLO, dit is een titel]]></title>
             <description><![CDATA[<article><h1>HALLO, dit is een titel</h1><p>Dit is een subtitel</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7dbb33a20cd3523d91546a7c85035cc37be15ab.jpg"></article>]]></description>
             <link>https://thegrid.ai/sandertest/hello-world/index.html</link>
             <guid isPermaLink="false">d8602ccd-8669-4ede-9ebe-aece9f4032c3</guid>
-            <pubDate>Fri, 26 Feb 2016 12:35:48 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 12:43:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dit is de titel van de tweede post]]></title>
