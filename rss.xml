@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Hello World]]></title>
-        <description><![CDATA[Hello World]]></description>
+        <title><![CDATA[Home]]></title>
+        <description><![CDATA[Home]]></description>
         <link>https://thegrid.ai/sandertest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 14:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 14:38:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sandertest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Profronde Surhuisterveen]]></title>
@@ -28,11 +28,11 @@
             <pubDate>Fri, 26 Feb 2016 14:33:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HALLO, dit is een titel]]></title>
-            <description><![CDATA[<article><h1>HALLO, dit is een titel</h1><p>Dit is een subtitel</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f411af9df9cd07e7d4c78c8364ac8e09886304cc.jpg"></article>]]></description>
+            <title><![CDATA[Over ons]]></title>
+            <description><![CDATA[<article><h1>Over ons</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit, mauris non placerat auctor, dolor quam lacinia diam, at interdum metus felis eget purus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f411af9df9cd07e7d4c78c8364ac8e09886304cc.jpg"></article>]]></description>
             <link>https://thegrid.ai/sandertest/hello-world/index.html</link>
             <guid isPermaLink="false">d8602ccd-8669-4ede-9ebe-aece9f4032c3</guid>
-            <pubDate>Fri, 26 Feb 2016 13:21:58 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 14:37:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
