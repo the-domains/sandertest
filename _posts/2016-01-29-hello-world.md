@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T13:21:58.764Z'
-dateModified: '2016-02-26T13:21:56.226Z'
-title: Hello world
+datePublished: '2016-02-26T14:37:14.871Z'
+dateModified: '2016-02-26T14:36:40.398Z'
+title: Over ons
 author: []
 sourcePath: _posts/2016-01-29-hello-world.md
 published: true
@@ -22,8 +22,9 @@ url: hello-world/index.html
 _type: Article
 
 ---
-## HALLO, dit is een titel
+## Over ons
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7507d7fc-b603-4796-bfaf-07e35ec16e4f.jpg)
 
-Dit is een subtitel
-![Alt caption](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1462f8883db994680fa4be9763850bbd1ccd4ff5.jpg)
+## Dit is een subtitel
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit, mauris non placerat auctor, dolor quam lacinia diam, at interdum metus felis eget purus.
